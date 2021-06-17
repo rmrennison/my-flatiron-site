@@ -1,13 +1,20 @@
+body {
+    background-image: url("https://cdn.dribbble.com/users/739696/screenshots/4030503/tortoiseshell-1000px.jpg?compress=1&resize=800x600");
+  }
+
 h1 {
     text-align: center;
+    color:chartreuse
 }
 
 h2 {
     text-align: center;
+    color:chartreuse
 }
 
 p {
     text-align: center;
+    color:chartreuse
 }
 
 div {
@@ -23,7 +30,7 @@ figcaption {
 
 .al2 {
     margin: auto;
-    width: 50%;
+    width: 60%;
     border: 3px solid green;
     padding: 10px  
 }
