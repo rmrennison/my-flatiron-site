@@ -20,17 +20,22 @@ p {
 div {
     margin: auto;
     width: 50%;
-    border: 3px solid green;
+    border: 3px chartreuse;
     padding: 10px;
 }
 
 figcaption {
     text-align: center;
+    color:chartreuse;
 }
 
 .al2 {
     margin: auto;
     width: 60%;
-    border: 3px solid green;
+    border: 3px chartreuse;
     padding: 10px  
+}
+
+.active {
+    opacity: 0.5;
 }
